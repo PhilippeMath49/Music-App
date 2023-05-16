@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#music-player{
+    background-color:darkslategrey;
+    height: 50vh;
+    width: 100%;
+}
